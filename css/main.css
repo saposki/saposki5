@@ -271,6 +271,14 @@ a {
     width: 100%;
     margin: 1% auto;
 }
+.contact input[type=submit]{
+    font-family:"Helvetica";
+    font-size:13px;
+    font-weight: 100;
+}
+.notes-detail{
+    border-color: #cccccc;
+}
 .notes-detail{
     position: relative;
     width: 100.7%;
@@ -279,8 +287,14 @@ a {
 .contact p{
     color:#000000;
     font-family:"Helvetica";
-    font-size:14px;
+    font-size:13px;
     font-weight: 100;
+}
+.name-class, .email-class{
+    font-family:"Helvetica";
+    font-weight: 200;
+    font-size:12px;
+
 }
 .mycontent{
     margin: 6% auto 20%;
